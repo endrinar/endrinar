@@ -1,3 +1,3 @@
 👋 Hi, I’m @endrinar
 
-I’m interested in simulation
+I’m interested in data and simulation.
